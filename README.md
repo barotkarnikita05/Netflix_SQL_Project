@@ -1,5 +1,6 @@
 # Netflix Movies & TV Shows – SQL Data Analysis
 ![Netflix_logo](https://github.com/barotkarnikita05/Netflix_SQL_Project/blob/main/netflix.png)
+
 **Overview**
 
 This project analyzes the Netflix Movies and TV Shows dataset using MySQL. The goal is to explore content trends, identify patterns in ratings, countries, directors, and durations, and answer real business questions using SQL — from basic aggregations to window functions and CTEs.
