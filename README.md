@@ -5,6 +5,7 @@
 This project analyzes the Netflix Movies and TV Shows dataset using MySQL. The goal is to explore content trends, identify patterns in ratings, countries, directors, and durations, and answer real business questions using SQL — from basic aggregations to window functions and CTEs.
 
 **Objectives**
+
 Compare the distribution of Movies vs TV Shows
 Identify the most common ratings for Movies and TV Shows
 Analyze content by release year, country, and duration
@@ -12,6 +13,7 @@ Find top directors and recurring collaborations
 Categorize content based on audience suitability (Kids/Teen/Adult)
 
 **Dataset**
+
 Source: Netflix Movies and TV Shows dataset
 File: netflix_titles.csv
 Rows: ~8,800 titles
